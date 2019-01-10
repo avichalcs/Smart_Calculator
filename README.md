@@ -16,3 +16,6 @@ This calculator answers your question in smart way. Please take a look screensho
 Python
 
 ## ScreenShots
+<img src="Images/calci1.bmp" width="400">       <img src="Images/calci2.bmp" width="400">
+
+<img src="Images/calci3.bmp" width="400">
